@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Luna/static/css/main.851a1b93.css",
+    "main.js": "/Luna/static/js/main.daa94502.js",
+    "index.html": "/Luna/index.html",
+    "main.851a1b93.css.map": "/Luna/static/css/main.851a1b93.css.map",
+    "main.daa94502.js.map": "/Luna/static/js/main.daa94502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851a1b93.css",
+    "static/js/main.daa94502.js"
+  ]
+}
