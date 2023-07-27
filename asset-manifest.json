@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Luna/static/css/main.7c82cdc2.css",
-    "main.js": "/Luna/static/js/main.daeb170e.js",
+    "main.css": "/Luna/static/css/main.a7ee2aba.css",
+    "main.js": "/Luna/static/js/main.6229d3f1.js",
     "index.html": "/Luna/index.html",
-    "main.7c82cdc2.css.map": "/Luna/static/css/main.7c82cdc2.css.map",
-    "main.daeb170e.js.map": "/Luna/static/js/main.daeb170e.js.map"
+    "main.a7ee2aba.css.map": "/Luna/static/css/main.a7ee2aba.css.map",
+    "main.6229d3f1.js.map": "/Luna/static/js/main.6229d3f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c82cdc2.css",
-    "static/js/main.daeb170e.js"
+    "static/css/main.a7ee2aba.css",
+    "static/js/main.6229d3f1.js"
   ]
 }
